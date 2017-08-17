@@ -1,6 +1,6 @@
 # Model for cortical UP-DOWN states in a bistable inhibitory-stabilized network (Jercog et al 2017)
 
-"UP-DOWN cortical dynamics reflect state transitions in a bistable network"
+"UP-DOWN cortical dynamics reflect state transitions in a bistable network"\n
 Jercog D, Roxin A, Barthó P, Luczak A, Compte A & de la Rocha J
 Elife 2017; DOI: 10.7554/eLife.22425
 
