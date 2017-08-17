@@ -4,7 +4,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 Contains both rate and spiking network model implementations from the paper Jercog et al 2017. Both models generate the time courses for E & I population rates and adaptation presented. In addition, the Spiking network generates individual spiking activity in rasters. A complete description of the model is provided in the methods of the paper.
 
-Rate model (Matlab 2009 - Linux).<br>
+<b>Rate model (Matlab 2009 - Linux)</b><br>
   Include following files in a separated folder:<br>
   singleSimEIModel.m: main function (also plots the output traces).<br>
   eiModelParams.m: model parameters.<br>
@@ -12,7 +12,7 @@ Rate model (Matlab 2009 - Linux).<br>
   eiModel.cpp: c++ mex-function source.<br>
   rate_readme.txt: description.<br>
 <br>
-Spiking Model (g++ 6.4.3 - Linux):<br>
+<b>Spiking Model (g++ 6.4.3 - Linux)</b><br>
   Include following files in a separated folder:<br>
   main.cpp: main function, generate output bin files.<br>
   functions.h:   auxiliar functions.<br>
