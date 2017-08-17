@@ -1,10 +1,10 @@
 # Model for cortical UP-DOWN states in a bistable inhibitory-stabilized network (Jercog et al 2017)
 
+<a href="https://elifesciences.org/articles/22425">
 "UP-DOWN cortical dynamics reflect state transitions in a bistable network"<br>
 Jercog D, Roxin A, Barthó P, Luczak A, Compte A & de la Rocha J<br>
 Elife 2017; DOI: 10.7554/eLife.22425
-
-Contributed by Daniel Jercog.
+</a>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details (http://www.gnu.org/licenses/).
 
